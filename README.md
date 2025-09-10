@@ -77,8 +77,8 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maharudraganjure&theme=dark&hide_border=true" width="48%" alt="Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=maharudraganjure&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maharudra123&theme=dark&hide_border=true" width="48%" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maharudra123&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharudraganjure&layout=compact&theme=radical&hide_border=true" width="60%" alt="Most Used Languages">
